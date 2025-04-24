@@ -61,7 +61,7 @@ All data cleaning and transformations are fully documented in the Jupyter Notebo
 
 ##  Key Links
 
-[Jupyter Notebook]aviation_accident_analysis- luciana.ipynb
+[Jupyter Notebook][aviation_accident_analysis- luciana.ipynb](https://github.com/Lndanu/aviation-accidents-analysis/blob/main/aviation_accident_analysis-%20luciana.ipynb)
 [Business Slide Deck](./aviation_data_insights_presentation.pdf)
 [NTSB Dataset Source](https://www.ntsb.gov/_layouts/ntsb.aviation/AviationQuery.aspx)
 Interactive Dashboard: *coming soon*
