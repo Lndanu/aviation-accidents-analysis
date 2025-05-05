@@ -65,6 +65,7 @@ All data cleaning and transformations are fully documented in the Jupyter Notebo
 [Business Slide Deck](./aviation_data_insights_presentation.pdf)
 [NTSB Dataset Source](https://www.ntsb.gov/_layouts/ntsb.aviation/AviationQuery.aspx)
 Interactive Dashboard: https://public.tableau.com/authoring/AviationAccidentRiskInsights19622023/AviationSafetyAnalysisDashboard#1
+https://public.tableau.com/app/profile/luciana5648/viz/AviationAccidentRiskInsights19622023/AviationSafetyAnalysisDashboard
 
 
 ## Author
